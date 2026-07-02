@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ino": "plaintext"
+    },
+    "C_Cpp.codeAnalysis.clangTidy.enabled": false
+}
