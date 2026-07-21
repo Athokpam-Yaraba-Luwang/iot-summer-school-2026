@@ -37,7 +37,7 @@ Dedicated branch for wireless communication and IoT connectivity.
 - Wi-Fi and Bluetooth communication code
 - MQTT protocol implementation
 - Code for sending sensor data to the cloud (e.g., ThingSpeak, Firebase)
-- Example sketches for ESP8266/ESP32 wireless connectivity
+- Example sketches for ESP32 wireless connectivity
 
 ---
 
